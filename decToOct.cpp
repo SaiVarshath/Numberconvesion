@@ -2,6 +2,9 @@
 #include <math.h>
 using namespace std;
 
+//@ author SaiVarshath
+
+
 int decToOct(int n) {
 
     int octal = 0, i = 0;
