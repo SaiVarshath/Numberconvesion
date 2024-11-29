@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 
+//@ author SaiVarshath
+
 int binToDec(int n) {
 
     int decimal = 0, i = 0;
