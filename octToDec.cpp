@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 
+//@ author SaiVarshath
+
 int octToDec(int n) {
 
     int decimal = 0, i = 0;
