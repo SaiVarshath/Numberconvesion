@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 
+//@ author SaiVarshath
+
 int hexToDec( string n ) {
 
     int decimal = 0, s = n.size(), x = 0;
