@@ -2,6 +2,8 @@
 #include <math.h>
 using namespace std;
 
+//@ author SaiVarshath
+
 int decToBin(int n) {
 
     int binary = 0, i = 0;
